@@ -11,8 +11,11 @@ To execute this specification, run
 Search
 ---------------------------
 tags:deneme
+
 *"4" saniye kadar bekle
+
 *Uygulamanın açıldığı kontrol edilir
+
 *Alısverise basla butonuna tıklanır
 *Alısveris sayfasının açıldıgı dogrulanır
 *Kategorilere tıklanır
