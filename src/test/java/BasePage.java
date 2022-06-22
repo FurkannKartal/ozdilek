@@ -1,4 +1,3 @@
-import com.thoughtworks.gauge.Logger;
 import com.thoughtworks.gauge.Step;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;
